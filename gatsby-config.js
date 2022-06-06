@@ -16,6 +16,7 @@ module.exports = {
     siteImage: `/banner.jpg`,
     author: `@lekoarts_de`,
   },
+  pathPrefix: "/portfolio",
   plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-cara`,
