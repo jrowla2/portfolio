@@ -1,6 +1,7 @@
 {
   "private": true,
   "name": "cara",
+  "homepage": "http://jrowla2.github.io",
   "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
   "version": "0.2.11",
   "author": "LekoArts <hello@lekoarts.de>",
@@ -13,7 +14,9 @@
     "build:cypress": "cross-env CYPRESS_SUPPORT=y yarn build",
     "start": "gatsby develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-cara": "^3.0.0",
