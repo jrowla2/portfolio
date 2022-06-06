@@ -10,7 +10,7 @@ module.exports = {
 		siteTitle: `Jeff`,
 		siteTitleAlt: `Jeff Rowland - Portfolio`,
 		siteHeadline: `Jeff Rowland- Gatsby Theme from @lekoarts`,
-		siteUrl: `https://jrowla2.github.io`,
+		siteUrl: `https://jrowla2.github.io/portfolio`,
 		siteDescription: `Jeff Rowland Portfolio`,
 		siteLanguage: `en`,
 		siteImage: `/banner.jpg`,
