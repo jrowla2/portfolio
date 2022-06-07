@@ -7,11 +7,11 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitle: `Jeff's Portfolio`,
-    siteTitleAlt: `Jeff's Portfolio - Gatsby Starter Portfolio`,
-    siteHeadline: `Jeff's Portfolio - Gatsby Theme from @lekoarts`,
+    siteTitle: `Jeff Dev Portfolio`,
+    siteTitleAlt: `Jeff Dev Portfolio`,
+    siteHeadline: `Jeff Dev Portfolio - Gatsby Theme from @lekoarts`,
     siteUrl: `https://jrowla2.github.io/portfolio/`,
-    siteDescription: `Jeff's Developer Portfolio`,
+    siteDescription: `Jeff Developer Portfolio`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
     author: `@lekoarts_de`,
