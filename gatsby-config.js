@@ -7,14 +7,14 @@ module.exports = {
 		// You can overwrite values here that are used for the SEO component
 		// You can also add new values here to query them like usual
 		// See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
-		siteTitle: `Jeff`,
-		siteTitleAlt: `Jeff - Gatsby Starter Portfolio`,
-		siteHeadline: `Jeff - Gatsby Theme from @lekoarts`,
+		siteTitle: `Jeff's Portfolio`,
+		siteTitleAlt: `Jeff - Portfolio`,
+		siteHeadline: `Jeff - Portfolio`,
 		siteUrl: `https://jrowla2.github.io/portfolio/`,
-		siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+		siteDescription: `Jeff Rowland Developer portfolio`,
 		siteLanguage: `en`,
 		siteImage: `/banner.jpg`,
-		author: `@lekoarts_de`,
+		author: `Jeff Rowland`,
 	},
 	pathPrefix: '/portfolio',
 	plugins: [
@@ -27,8 +27,8 @@ module.exports = {
 			resolve: `gatsby-plugin-manifest`,
 			options: {
 				name: `Cara - @lekoarts/gatsby-theme-cara`,
-				short_name: `Cara`,
-				description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+				short_name: `Jeff`,
+				description: `Jeff's Portfolio`,
 				start_url: `/`,
 				background_color: `#141821`,
 				// This will impact how browsers show your PWA/website
